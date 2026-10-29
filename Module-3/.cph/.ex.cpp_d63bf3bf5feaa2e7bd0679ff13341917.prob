@@ -1,0 +1,1 @@
+{"name":"Local: ex","url":"/home/mdrafi/other/C++/Module-3/ex.cpp","tests":[{"id":1792819591026,"input":"5","output":"\\   /\n \\ /\n  X\n / \\\n/   \\"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mdrafi/other/C++/Module-3/ex.cpp","group":"local","local":true}
