@@ -1,0 +1,1 @@
+{"name":"Local: proble_1","url":"/home/mdrafi/other/C++ with DS/Module-6.5/proble_1.cpp","tests":[{"id":1793026355823,"input":"2 1 5 3 4 8 9","output":"7"},{"id":1793026377511,"input":"5 1 4 5","output":"4"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mdrafi/other/C++ with DS/Module-6.5/proble_1.cpp","group":"local","local":true}
