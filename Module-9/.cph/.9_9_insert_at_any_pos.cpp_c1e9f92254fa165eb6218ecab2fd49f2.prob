@@ -1,0 +1,1 @@
+{"name":"Local: 9_9_insert_at_any_pos","url":"/home/mdrafi/other/C++ with DS/Module-9/9_9_insert_at_any_pos.cpp","tests":[{"id":1794118337834,"input":"10 20 30 40 50 -1","output":"10 20 150 30 40 50"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/mdrafi/other/C++ with DS/Module-9/9_9_insert_at_any_pos.cpp","group":"local","local":true}
